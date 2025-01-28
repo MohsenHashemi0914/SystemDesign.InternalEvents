@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Mutual events of "25 SystemDesign" services</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Version>0.0.1</Version>
+	<Authors>mohsenhashemi421@gmail.com</Authors>
+	<PackageDescription>This is for integrating internal events</PackageDescription>
+	<RepositoryUrl>https://github.com/MohsenHashemi0914/SystemDesign.InternalEvents</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
